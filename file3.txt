@@ -1,0 +1,15 @@
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           792M  3.2M  788M   1% /run
+/dev/sda4       136G  9.6G  119G   8% /
+tmpfs           3.9G   54M  3.9G   2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop2       90M   90M     0 100% /snap/core/6673
+/dev/loop0       17M   17M     0 100% /snap/ubuntu-budgie-welcome/120
+/dev/loop1       89M   89M     0 100% /snap/core/7270
+/dev/loop3      150M  150M     0 100% /snap/slack/16
+/dev/loop4      134M  134M     0 100% /snap/code/11
+/dev/loop5       17M   17M     0 100% /snap/ubuntu-budgie-welcome/131
+/dev/loop6      135M  135M     0 100% /snap/code/12
+tmpfs           792M   68K  791M   1% /run/user/1000
